@@ -1,0 +1,4 @@
+This is an example file.
+For 28.c C program.
+There is nothing valuable in this text file
+OR                             is There?
